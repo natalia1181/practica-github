@@ -1,0 +1,22 @@
+# Entornos virtuales
+venv/
+env/
+.venv/
+
+# Archivos compilados
+__pycache__/
+*.pyc
+*.pyo
+
+# Configuración local
+*.env
+instance/
+
+# Logs y BD local
+*.log
+*.sqlite3
+*.db
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
